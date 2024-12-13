@@ -7,8 +7,8 @@
 - 📫 How to reach me
   gmail: amodfired@gmail.com
   skype: live:.cid.3d3d9a7539f85345
-  whatsapp: +1 302 641 1780
-  telegram: @skybigstar
+  whatsapp: +380 66 419 8678
+  telegram: @hugedragon61
 - I thrive in collaborative, fast-paced environments and am always looking for opportunities to learn and grow in the fields of AI and backend development.
 
 <!---
