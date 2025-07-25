@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dragonwarrior61
+- 👋 Hi
 - 👀 I am a Senior Software Developer with 8 years of experience in building scalable and efficient backend solutions.
 - My primary expertise lies in Python, and I have a strong background in web frameworks such as FastAPI, Flask, and Django.
 - I am also proficient in developing AI/ML solutions and have a deep understanding of Computer Vision.
